@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋<br>hướng nội part time
+ 👋<br>Hướng Nội Fart Time
 
 
 ## 🌐 Socials:

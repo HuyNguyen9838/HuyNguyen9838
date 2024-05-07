@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋<br>Hướng Nội Fart Time
+ 👋<br>Chân thành chạm tới trái tim và hạnh phúc bắt nguồn từ sự tử tế.
 
 
 ## 🌐 Socials:

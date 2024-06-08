@@ -1,8 +1,8 @@
 # 💫 About Me:
  👋<br>Chân thành chạm tới trái tim và hạnh phúc bắt nguồn từ sự tử tế.
- [![](https://visitcount.itsvg.in/api?id=Huy&label=Xem%20g%C3%AC%20%C4%91%E1%BA%A5y&color=3&icon=4&pretty=true)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=Huy&label=%F0%9F%99%82&icon=7&pretty=true)](https://visitcount.itsvg.in)
  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Huy&label=Xem%20g%C3%AC%20%C4%91%E1%BA%A5y&color=3&icon=4&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Huy&label=%F0%9F%99%82&icon=7&pretty=true" />
 </a>
 
 
